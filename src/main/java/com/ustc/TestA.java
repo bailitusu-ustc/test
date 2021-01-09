@@ -1,5 +1,5 @@
 package com.ustc;
 
 public class TestA {
-    private int a = 6;
+    private int a = 7;
 }
